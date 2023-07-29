@@ -24,11 +24,11 @@ function App() {
           <img src={pic} alt="Avatar" className="avatar" />
           <br /> 
           <br />
-          <as href="https://mega.nz/file/ILNSDJ4C#-ZzA8ZFpnpLQJIVle6GzvBE0vbbPM6r6Mu5UTKNg1F4" target="_blank">
+          <a href="https://mega.nz/file/ILNSDJ4C#-ZzA8ZFpnpLQJIVle6GzvBE0vbbPM6r6Mu5UTKNg1F4" target="_blank">
             <button variant="contained" className={styles.btn}>
                "Gestion de Stock " Application Desktop 
             </button>
-          </as>     
+          </a>     
           <span />
           <br />
           <br />
