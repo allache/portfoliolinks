@@ -2,8 +2,7 @@ import pic from "./imag02.jpg";
 import * as React from "react";
 import styles from "./App.module.css";
 import backgroundImage from "./backgroundimg.jpg";
-import image01 from "./IMG01.JPG";
-import image02 from "./IMG02.JPG";
+
 
 function App() {
   const containerStyle = {
@@ -20,7 +19,7 @@ function App() {
         <br />
         <br />
         <div className="center">
-       <h1 className={styles.h1}>Hello there ... </h1> 
+       <h1 className={styles.h1}> Hello there ...  </h1> 
           <img src={pic} alt="Avatar" className="avatar" />
           <br /> 
           <br />
@@ -60,20 +59,10 @@ function App() {
             target="_blank"
            >
             <button variant="contained" className={styles.btn}>
-              just a website showing Gallery of cv exemples 01 
+              just a website showing Gallery of my deploma and some working on cctv filed
             </button>
             </a>
-            <br />
-            <br />
-
-            <h1 className={styles.h1}>
-            the pictures down here is similare
-            <br/> of what i doing study and planning on CCTV field job
-            </h1>
-
-  
            <br/>
-           <img src={image02} alt="Avatar" className="avatar" /> <img src={image01} alt="Avatar" className="avatar" />
 
         </div>
       </div>
