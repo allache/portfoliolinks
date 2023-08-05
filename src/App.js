@@ -7,9 +7,9 @@ import backgroundImage from "./backgroundimg.jpg";
 function App() {
   const containerStyle = {
     backgroundImage: `url(${backgroundImage})`,
-    backgroundSize: "cover",
+   backgroundSize: "800px 800px",
     backgroundPosition: 'center',
-    backgroundRepeat: "no-repeat",
+    backgroundRepeat: "repeat",
   };
 
   return (
@@ -62,8 +62,18 @@ function App() {
               just a website showing Gallery of my deploma and some working on cctv filed
             </button>
             </a>
-           <br/>
-
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+          
+       
         </div>
       </div>
     </div>
