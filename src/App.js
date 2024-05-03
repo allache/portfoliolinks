@@ -33,14 +33,7 @@ function App() {
           <br />
 
           <br />
-          <a
-            href="https://allacheabdelmalek.netlify.app/?fbclid=IwAR2j_-Cgj9Qow2tTHs28E84ms24qEx1nYEJBnqWO8sVa8f7nDTq4xVPY7yk"
-            target="_blank"
-          >
-            <button variant="contained" className={styles.btn}>
-              Portfolio
-            </button>
-          </a>
+
           <br />
           <br />
           <a
